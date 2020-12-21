@@ -1,2 +1,2 @@
-"This is a test file AA"
+"This is a test file AA - new addition"
 Version 1
